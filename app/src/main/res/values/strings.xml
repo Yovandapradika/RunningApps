@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="google_maps_key">AIzaSyCbGe-bbUqjq6Lo47J3lGLbOef3e--SHYQ</string>
+    <string name="hello_blank_fragment" />
+    <string name="apply_changes">Apply Changes</string>
+    <string name="welcome_nplease_enter_your_name_and_weight">Welcome!\nPlease enter your name and weight.</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_weight">Your Weight</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="sort_by">Sort by :</string>
+    <string name="todo">TODO</string>
+</resources>
